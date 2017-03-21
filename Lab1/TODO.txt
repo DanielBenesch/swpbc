@@ -1,2 +1,1 @@
 - PV Graph für Gesamtprojekt
-- CV, SV fehlt noch
