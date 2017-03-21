@@ -1,0 +1,9 @@
+Managementbericht: 
+- Titelblatt
+- Strukturierung der Überschriften, etc / Inhaltsverzeichnis
+- Preise hervorheben
+- Mit kennzahlen beschreiben oder ausformulieren (CPI oder "Kosteneffizienz")
+
+
+Excel file:
+- Aufhübschen der "Formel" darstellung/Tests
