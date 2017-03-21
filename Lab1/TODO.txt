@@ -1,1 +1,2 @@
-Kennzahlen/Grafiken für GESAMT erstellen (bislang hamma nur die einzelnen phasen)
+- Kennzahlen/Grafiken für GESAMT erstellen (bislang hamma nur die einzelnen phasen)
+- PV Graph für Gesamtprojekt
