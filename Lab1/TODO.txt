@@ -1,2 +1,5 @@
 - Kennzahlen/Grafiken für GESAMT erstellen (bislang hamma nur die einzelnen phasen)
 - PV Graph für Gesamtprojekt
+- EV falsch kalkuliert (siehe Telegram 21.03 - 10:25) Christian
+- RAG Tabelle Budget[€] Spalte zeigt Gesamt Budget an, ich weiß nicht ob das richtig ist. Christian
+- Bitte Gesamt Zeile in allen Kennzahlen prüfen und Sanity Checks machen. Christian
