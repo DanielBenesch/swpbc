@@ -7,3 +7,4 @@ Managementbericht:
 
 Excel file:
 - Aufhübschen der "Formel" darstellung/Tests
+- Projektmanagementdiagramm wirkt komisch - EV, PV, AC starten nicht bei 0
