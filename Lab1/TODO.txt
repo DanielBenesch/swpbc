@@ -4,7 +4,6 @@ Managementbericht:
 
 
 Excel file:
-- Aufhübschen
 - Projektmanagementdiagramm wirkt komisch - EV, PV, AC starten nicht bei 0
 
 
