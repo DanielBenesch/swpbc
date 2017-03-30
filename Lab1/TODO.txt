@@ -9,3 +9,7 @@ Excel file:
 finally:
 - Stylen der Überschriften, Absatzstrukturen, etc
 - Sätze schöner konstruieren, besser ausformulieren, etc)
+
+optional:
+- pv graph: gesamtbudget von 1,25m einfügen.
+- etc eac: gesamtbudget von 1,25m einfügen.
