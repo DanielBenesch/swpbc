@@ -1,11 +1,3 @@
-Besprechen: 
-- Multiprojektvergleichstabelle: Gesamtbudget 1.500.000 oder 1.250.000?
-Habe den Wert im Excel, sowie im MngmtBericht in der RAG-Gesamtzeile mal auf 1.250.000 gesetzt, da wir in 
-Realität ja nur dies als Budget haben. Können wir gern wieder ändern.
-
-Excel file:
-- Projektmanagementdiagramm wirkt komisch - EV, PV, AC starten nicht bei 0, selbes für einzelne Posten
-
 finally:
 - Stylen der Überschriften, Absatzstrukturen, etc
 - Sätze schöner konstruieren, besser ausformulieren, etc)
